@@ -43,7 +43,7 @@ This repository contains several deep learning projects, each focused on a diffe
 ---
 
 ## 5. image-genrator
-- **Purpose:** Generates new images, possibly using generative models like GANs.
+- **Purpose:** Generates new images, possibly using generative models like Stable Diffusion.
 - **Key Files:**
   - `app.py`: Main application code.
 - **How it works:** Creates new images from random noise or based on certain inputs.
